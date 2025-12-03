@@ -29,9 +29,7 @@ hist(
 #keterangan grafik (legenda)
 legend("topright", label,  fill = colors)
 
-#Kode ini bertujuan untuk membuat visualisasi data tinggi badan siswa SMA X dalam bentuk histogram.
-#Histogram digunakan untuk menunjukkan distribusi frekuensi data.
-#Dengan grafik ini, kita dapat dengan mudah melihat sebaran (distribusi) tinggi badan siswa dan
-#mengidentifikasi kelompok tinggi badan mana yang paling banyak (frekuensi tertinggi),
-#berdasarkan interval atau bin yang telah ditentukan (misalnya, interval 40-45, 45-50, dst.).
-#Ini membuat analisis data menjadi lebih intuitif dan cepat dipahami.
+#kode ini bertujuan untuk membuat visualisasi data tinggi badan siswa SMA x ke dalam bentuk histogram
+#dengan grafik ini kita dapat lebih mudah melihat sebaran distribusi tinggi badan siswa dan mngidentifikasi 
+#kelompok tinggi badan mana yang paling banyak berdasaran kelas interval yang sudah saya tentukan 
+#ini membuat analisis daata menjadi lebih cepat dan mudah di pahami
